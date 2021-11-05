@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Adam Issa
-
+author: 
 
 # Is this the primary user of the site?
 superuser: no
