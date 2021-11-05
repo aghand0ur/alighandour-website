@@ -10,7 +10,7 @@ weight: 68  # Order that this section will appear.
 title: "Meet the Team"
 subtitle: ""
 
-[content]
+content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups: ["Principal Investigators",
@@ -20,14 +20,14 @@ subtitle: ""
                  "Visitors",
                  "Alumni"]
 
-[design]
+design:
   # Show user's social networking links? (true/false)
   show_social: false
 
   # Show user's interests? (true/false)
   show_interests: true
 
-[design.background]
+design.background:
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
@@ -47,7 +47,7 @@ subtitle: ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-[advanced]
+advanced:
  # Custom CSS. 
  css_style: ""
  
