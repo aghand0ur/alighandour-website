@@ -43,23 +43,7 @@ bio: My research interests include earth observation, smart city transportation,
 social:
 - icon: envelope
   icon_pack: fas
-  #link: '#contact'  # For a direct email link, use
-  link: mailto:aghandour at cnrs.edu.lb
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=1XOpq7oAAAAJ
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/AliJGhandour
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/alighandour/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/aghand0ur/
-#- icon: envelope
-#  icon_pack: fas
-#  link: '/#contact'
+  link: '/#contact'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -86,7 +70,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
 I am an associate researcher at the Lebanese National Center for Remote Sensing - National Council for Scientific Research (CNRS) where I have established the Geospatial Earth Observation (GEO) group. I earned a Ph.D. in Computer Communication in 2013 and was with Toyota Motor North America, InfoTech Labs at Mountain View, USA before joining CNRS in 2015 where I also acted as the coordinator of the Lebanese National Innovation Transfer Network.
 
 I have more than 30 publications with special research focus on **AI-assisted mapping** spanning various applications including geospatial urban sensing, transportation and urban features extraction from aerial imagery. I develop tools integrating deep learning techniques to automate the process of urban features extraction and collect crowd-sourcing data from various sources. Evidence gained from my models and data analysis allows for a robust humanitarian response and provides policymakers and key stakeholders with insights to design tailored regulations and safety countermeasures for urban social good. In the past, I made research contributions to vehicular cognitive networks and IEEE P1609 standard Working Group.
