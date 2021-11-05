@@ -2,10 +2,6 @@
 # Display name
 title: Huda Hammoud
 
-# Username (this should match the folder name)
-#authors:
-#- huda
-
 # Is this the primary user of the site?
 superuser: no
 

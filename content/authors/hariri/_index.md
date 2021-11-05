@@ -3,10 +3,6 @@
 title: Ali Hariri
 
 
-# Username (this should match the folder name)
-#authors:
-#- hariri
-
 # Is this the primary user of the site?
 superuser: no
 

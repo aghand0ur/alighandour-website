@@ -3,10 +3,6 @@
 title: Mohamad Dimassi
 
 
-# Username (this should match the folder name)
-#authors:
-#- dimassi
-
 # Is this the primary user of the site?
 superuser: no
 

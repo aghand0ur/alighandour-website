@@ -3,10 +3,6 @@
 title: Ali Kawtharani
 
 
-# Username (this should match the folder name)
-#authors:
-#- akawtharani
-
 # Is this the primary user of the site?
 superuser: no
 

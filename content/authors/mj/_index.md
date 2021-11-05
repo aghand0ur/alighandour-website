@@ -3,10 +3,6 @@
 title: Mohamad Abdallah
 
 
-# Username (this should match the folder name)
-#authors:
-#- mj
-
 # Is this the primary user of the site?
 superuser: no
 

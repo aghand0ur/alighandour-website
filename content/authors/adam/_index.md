@@ -3,10 +3,6 @@
 title: Adam Issa
 
 
-# Username (this should match the folder name)
-#authors:
-#- adam
-
 # Is this the primary user of the site?
 superuser: no
 

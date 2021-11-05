@@ -3,10 +3,6 @@
 title: Abdul Karim Gizzini
 
 
-# Username (this should match the folder name)
-#authors:
-#- jezzini
-
 # Is this the primary user of the site?
 superuser: no
 
