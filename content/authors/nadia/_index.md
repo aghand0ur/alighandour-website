@@ -4,8 +4,8 @@ title: Nadia Mouawad
 
 
 # Username (this should match the folder name)
-authors:
-- nadia
+#authors:
+#- nadia
 
 # Is this the primary user of the site?
 superuser: no

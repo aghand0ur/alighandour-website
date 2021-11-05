@@ -4,8 +4,8 @@ title: Hassan Nasrallah
 
 
 # Username (this should match the folder name)
-authors:
-- hassan
+#authors:
+#- hassan
 
 # Is this the primary user of the site?
 superuser: no

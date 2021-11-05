@@ -4,8 +4,8 @@ title: Mohamad Abdallah
 
 
 # Username (this should match the folder name)
-authors:
-- mj
+#authors:
+#- mj
 
 # Is this the primary user of the site?
 superuser: no

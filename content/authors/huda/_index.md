@@ -3,8 +3,8 @@
 title: Huda Hammoud
 
 # Username (this should match the folder name)
-authors:
-- huda
+#authors:
+#- huda
 
 # Is this the primary user of the site?
 superuser: no
