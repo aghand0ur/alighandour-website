@@ -25,7 +25,7 @@ design:
   show_social: false
 
   # Show user's interests? (true/false)
-  show_interests: true
+  show_interests: false
 
   # Show user's role?
   show_role: true
