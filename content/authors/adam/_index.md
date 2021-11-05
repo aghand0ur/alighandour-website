@@ -70,6 +70,10 @@ email: ""
 user_groups:
 - Alumni
 
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 ---
 I am currently working as an Operations Research Developer at IBS Software, Montreal, Canada.
 I have received my Master of Applied Science (M.A.Sc) degree in Electrical and Computer Engineering at the University of Toronto in November 2019, under supervision of Prof. Farid N. Najm.
