@@ -7,7 +7,7 @@ title: Ali Hariri
 superuser: no
 
 # Role/position
-role: Phd student
+role: Phd Student
 
 # Organizations/Affiliations
 organizations:

@@ -57,5 +57,6 @@ email: ""
 user_groups:
 - Grad Students
 
+show_organizations: false
 ---
 I am a CCE grad student with interest in machine learning research. Currently working on a crop classification project using deep learning models. My aim is to leave a positive environmental impact through my research work.
