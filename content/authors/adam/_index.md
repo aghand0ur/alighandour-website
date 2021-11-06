@@ -2,7 +2,8 @@
 # Display name
 title: Adam Issa
 
-author:
+# Username (this should match the folder name)
+authors:
 - adam
 
 # Is this the primary user of the site?
