@@ -26,6 +26,8 @@ social:
     link: https://github.com/mshukor
     icon_pack: fab
     icon: github
+organizations:
+  - name: MLIA group - Sorbonne
 superuser: false
 user_groups:
   - Alumni
