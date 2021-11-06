@@ -1,7 +1,9 @@
 ---
 # Display name
 title: Adam Issa
-author: 
+
+author:
+- adam
 
 # Is this the primary user of the site?
 superuser: no
