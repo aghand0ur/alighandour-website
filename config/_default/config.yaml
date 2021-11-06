@@ -66,6 +66,10 @@ related:
       weight: 100
     - name: categories
       weight: 70
+	  
+############################
+## CMS
+############################	  
 backend:
   name: git-gateway
   repo: aghand0ur/starter-hugo-academic
