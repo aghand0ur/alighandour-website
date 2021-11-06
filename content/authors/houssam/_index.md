@@ -7,11 +7,11 @@ title: Houssam Krayem
 superuser: no
 
 # Role/position
-role: Freelance Developer
+role: Mobile Developer
 
 # Organizations/Affiliations
 organizations:
-- name:
+- name: Freelance
   url:
 
 # Short bio (displayed in user profile at end of posts)

@@ -11,7 +11,7 @@ role: Security Expert
 
 # Organizations/Affiliations
 organizations:
-- name:
+- name: Freelance
   url:
 
 # Short bio (displayed in user profile at end of posts)
