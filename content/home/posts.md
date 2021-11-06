@@ -1,8 +1,9 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+active: false
 widget: pages
-active: FALSE
+active: false
 
 # This file represents a page section.
 headless: true
