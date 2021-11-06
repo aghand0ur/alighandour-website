@@ -18,5 +18,5 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Grad Students
+  - Alumni
 ---
