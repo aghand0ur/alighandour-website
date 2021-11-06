@@ -30,7 +30,7 @@ organizations:
   - name: National Center for Remote Sensing - CNRS
     url: http://rsensing.cnrs.edu.lb/
 email: ""
-superuser: false
+superuser: true
 highlight_name: true
 ---
 I am an associate researcher at the Lebanese National Center for Remote Sensing - National Council for Scientific Research (CNRS) where I have established the Geospatial Earth Observation (GEO) group. I earned a Ph.D. in Computer Communication in 2013 and was with Toyota Motor North America, InfoTech Labs at Mountain View, USA before joining CNRS in 2015 where I also acted as the coordinator of the Lebanese National Innovation Transfer Network.
