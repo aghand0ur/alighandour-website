@@ -4,7 +4,8 @@
 title: "Building Footprints"
 summary: "The first comprehensive Lebanese Building Footprints autonomously generated using Deep Learning."
 authors: []
-tags: []
+tags:
+- Deep Learning
 categories: []
 date: 2020-10-10T10:59:15+01:00
 
