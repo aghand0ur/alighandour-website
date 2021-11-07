@@ -1,6 +1,6 @@
 ---
 title: Kawthar Salami
-role: Web Map Developer
+role: Software Developer
 bio: null
 interests:
   - Programming
@@ -13,7 +13,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/kawthar-salami/
 organizations:
-  - name: Geospatial Earth Observation group (GEO)
+  - name: MDGroup
     url: null
 email: ""
 superuser: false
