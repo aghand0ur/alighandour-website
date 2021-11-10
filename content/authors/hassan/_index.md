@@ -22,4 +22,4 @@ superuser: false
 user_groups:
   - Grad Students
 ---
-I studied Computer and Communications Engineering at the lebanese university. My main goal is to achieve high level knowledge in machine intelligence and dive into the core details of the artificial deep mind. I have participated in online datascience competitions and willing to participate more in the future. 
+I studied Computer and Communications Engineering at the Lebanese University. My main goal is to achieve high level knowledge in machine intelligence and dive into the core details of the artificial deep mind. I have participated in online datascience competitions and willing to participate more in the future. 

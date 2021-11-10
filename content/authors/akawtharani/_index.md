@@ -24,4 +24,4 @@ superuser: false
 user_groups:
   - Grad Students
 ---
-I am a CCE grad student with interest in machine learning research. Currently working on a crop classification project using deep learning models. My aim is to leave a positive environmental impact through my research work.
+I am a CCE graduate student with interest in machine learning research. Currently working on a crop classification project using deep learning models. My aim is to leave a positive environmental impact through my research work.
