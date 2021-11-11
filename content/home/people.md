@@ -18,6 +18,7 @@ content:
     - Researchers
     - Grad Students
     - Administration
+	- Members
     - Visitors
     - Alumni
 
