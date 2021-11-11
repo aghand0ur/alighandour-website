@@ -19,6 +19,6 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Alumni
+  - Members
 ---
 Full Stack Engineer and Software Developer, having excellent knowledge in algorithms, data structures, and programming (C++ & Python), and experienced in designing Machine Learning and Computer Vision projects.

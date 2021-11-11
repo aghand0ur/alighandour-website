@@ -30,6 +30,6 @@ organizations:
   - name: MLIA group - Sorbonne
 superuser: false
 user_groups:
-  - Alumni
+  - Members
 ---
 I am currently stumbling in the fierce race of Machine Learning. To avoid overfitting, I have been trained on a bunch of stuff, to help my "biological" models to generalize better when facing out of distribution samples on the way. Unfortunately, some of my models have overfitted slightly on some datasets, especially Deep Learning and Computer Vision. I believe that, mostly, the ideas are behind scientific breakthroughs, and foresight is behind the good ones.

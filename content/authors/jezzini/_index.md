@@ -24,7 +24,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Alumni
+  - Members
 ---
 Experienced Researcher with a demonstrated history of working in the research industry especially in image and signal processing research area. Skilled in Oracle Database, MATLAB, Networking, LabVIEW, Management, and Java. 
 Strong research professional with a Master’s degree focused in Networking and Security.
