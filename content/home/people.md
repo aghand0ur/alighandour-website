@@ -17,8 +17,7 @@ content:
     - Principal Investigators
     - Researchers
     - Grad Students
-    - Administration
-	- Members
+    - Members
     - Visitors
     - Alumni
 
