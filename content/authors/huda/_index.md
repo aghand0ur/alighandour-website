@@ -1,6 +1,6 @@
 ---
 title: Huda Hammoud
-role: Digital Business Integration Analyst
+role: Data Engineering Consultant
 bio: null
 interests:
   - Data Analytics
@@ -22,6 +22,6 @@ superuser: false
 user_groups:
   - Alumni
 ---
-Huda is a Business Integration analyst at Accenture with a unique blend of  managerial skills , leadership, and ability to deliver results on time. As part of applied intelligence team, she leverages her data engineering and data analytics skills to deliver data driven consulting services.
+Huda is a Data Engineering Consultant at Accenture with a unique blend of  managerial skills , leadership, and ability to deliver results on time. As part of applied intelligence team, she leverages her data engineering and data analytics skills to deliver data driven consulting services.
 
 Huda earned her Bachelor degree in computer and communication engineering  and a minor in mathematics from the American University of Beirut in 2018.
