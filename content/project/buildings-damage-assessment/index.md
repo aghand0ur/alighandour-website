@@ -10,10 +10,10 @@ summary: |-
 draft: false
 featured: false
 #external_link: https://arxiv.org/abs/2111.14650
-image:
-  filename: capture.png
-  focal_point: Smart
-  preview_only: false
+#image:
+#  filename: capture.png
+#  focal_point: Smart
+#  preview_only: false
 ---
 <!--StartFragment-->
 
