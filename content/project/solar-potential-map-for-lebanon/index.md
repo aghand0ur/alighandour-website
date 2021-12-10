@@ -5,7 +5,7 @@ summary: >-
   <!--StartFragment-->
 
 
-  ### Solar Potential Assessment using Multi-Class Buildings Segmentation from Aerial Images
+  Solar Potential Assessment using Multi-Class Buildings Segmentation from Aerial Images
 
 
   <!--EndFragment-->
