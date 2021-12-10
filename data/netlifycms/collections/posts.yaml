@@ -1,0 +1,29 @@
+# data/netlifycms/collections/posts.yaml
+name: "events"
+label: "Events"
+folder: "content/events"
+create: true
+fields:
+  - import field title #--> data/netlifycms/fields/title.yaml
+  - import field authors #--> data/netlifycms/fields/authors.yaml
+  - import field date #--> data/netlifycms/fields/date.yaml
+  - import field images #--> data/netlifycms/fields/images.yaml
+  - import field body #--> data/netlifycms/fields/body.yaml
+  - import: field time #--> data/netlifycms/fields/time.yaml
+    extend:
+      name: start_time
+      label: Start
+  - import: field time
+    extend:
+      name: end_time
+      label: End
+  - {
+      label: "Tags",
+      name: "tags",
+      widget: "list",
+      field:
+        {
+          label: "Tag",
+          widget: "string",
+        },
+    }
