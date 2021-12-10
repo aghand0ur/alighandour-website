@@ -1,12 +1,10 @@
 ---
 title: Sci-Net
 date: 2021-12-10T04:28:30.269Z
-summary: >-
+summary: |-
   <!--StartFragment-->
 
-
-  #### Sci-Net: a Scale Invariant Model for Building Detection from Aerial Images
-
+  Sci-Net: a Scale Invariant Model for Building Detection from Aerial Images
 
   <!--EndFragment-->
 draft: false
