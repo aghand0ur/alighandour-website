@@ -6,7 +6,7 @@ weight: 165
 title: Dataset
 subtitle: ""
 content:
-  page_type: project
+  page_type: dataset
   filter_default: 0
 design:
   columns: ""
