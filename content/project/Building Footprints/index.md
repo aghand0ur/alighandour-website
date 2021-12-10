@@ -47,7 +47,7 @@ When you ZOOM IN, the dots on the map refer to the centroids of each building at
 
  The following research manuscripts are focused on urban features extraction from aerial images:
 
-1. <a href="hhttps://www.mdpi.com/2504-3900/2/7/359" target="_blank">Post-War Building Damage Detection</a>
+1. <a href="https://www.mdpi.com/2504-3900/2/7/359" target="_blank">Post-War Building Damage Detection</a>
 2. <a href="https://www.mdpi.com/2075-5309/8/5/65" target="_blank">Autonomous Building Detection Using Edge Properties and Image Color Invariants</a>
 3. <a href="https://ieeexplore.ieee.org/abstract/document/8672712" target="_blank"> Autonomous Vehicle Detection and Classification in High Resolution Satellite Imagery</a>
 4. <a href="https://link.springer.com/article/10.1007/s11760-018-1363-0" target="_blank"> Building shadow detection based on multi-thresholding segmentation </a>

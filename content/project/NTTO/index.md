@@ -53,4 +53,4 @@ Specifically, this project focused on:
 </ul>
 
 The project spans from 2015 to 2018 with support from UN ESCWA and comprised several workshops at the national level at the Grand Serail and the Lebanese Parliment.
-All studies and recommendations can be accessed via this <a href="https://www.dropbox.com/s/88hqff3cab7iprk/National%20Technology%20Development%20and%20Transfer%20System%20in%20Lebanon.pdf?dl=0">final book report.</a>
+All studies and recommendations can be accessed via this <a href="https://www.dropbox.com/s/88hqff3cab7iprk/National%20Technology%20Development%20and%20Transfer%20System%20in%20Lebanon.pdf?dl=0" target="_blank">final book report.</a>
