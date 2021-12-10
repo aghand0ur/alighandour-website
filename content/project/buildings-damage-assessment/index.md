@@ -4,7 +4,7 @@ date: 2021-12-10T04:34:27.885Z
 summary: |-
   <!--StartFragment-->
 
-  #### Buildings Classification using Very High Resolution Satellite Imagery
+  Buildings Classification using Very High Resolution Satellite Imagery
 
   <!--EndFragment-->
 draft: false
