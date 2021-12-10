@@ -5,6 +5,8 @@ summary: <!--StartFragment-->Buildings Classification using Very High Resolution
   Satellite Imagery<!--EndFragment-->
 draft: false
 featured: false
+tags:
+- Deep Learning
 #external_link: https://arxiv.org/abs/2111.14650
 #image:
 #  filename: capture.png
