@@ -73,3 +73,12 @@ backend:
   name: git-gateway
   repo: aghand0ur/starter-hugo-academic
   branch: master
+############################
+## CMS for the CMS
+############################	  
+module:
+  imports:
+  - path: github.com/theNewDynamic/hugo-module-tnd-netlifycms
+  
+  
+  
