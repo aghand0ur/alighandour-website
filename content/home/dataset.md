@@ -1,6 +1,5 @@
 ---
 widget: portfolio
-widget_id: .
 headless: true
 weight: 66
 title: Dataset
