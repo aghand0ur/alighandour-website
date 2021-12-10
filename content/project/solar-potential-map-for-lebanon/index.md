@@ -11,6 +11,8 @@ summary: >-
   <!--EndFragment-->
 draft: false
 featured: false
+tags:
+- Other
 #external_link: https://arxiv.org/abs/2111.11397
 #image:
 #  filename: capture.png
