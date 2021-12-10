@@ -1,12 +1,8 @@
 ---
 title: Buildings Type Classification
 date: 2021-12-10T04:38:29.117Z
-summary: |-
-  <!--StartFragment-->
-
-  #### Buildings Classification using Very High Resolution Satellite Imagery
-
-  <!--EndFragment-->
+summary: <!--StartFragment-->Buildings Classification using Very High Resolution
+  Satellite Imagery<!--EndFragment-->
 draft: false
 featured: false
 external_link: https://arxiv.org/abs/2111.14650
