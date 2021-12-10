@@ -75,7 +75,6 @@ collections:
       - {label: "Body", name: "body", widget: "markdown", required: false}
 	  
   - name: authors
-  hide: true
     label: Authors
     label_singular: Author
     folder: 'content/authors'
