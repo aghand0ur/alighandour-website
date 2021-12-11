@@ -1,14 +1,7 @@
 ---
 title: Solar Potential Map for Lebanon
 date: 2021-12-10T04:21:25.646Z
-summary: >-
-  <!--StartFragment-->
-
-
-  Solar Potential Assessment using Multi-Class Buildings Segmentation from Aerial Images
-
-
-  <!--EndFragment-->
+summary: Solar Potential Assessment using Multi-Class Buildings Segmentation from Aerial Images
 draft: false
 featured: false
 tags:
@@ -19,11 +12,7 @@ tags:
 #  focal_point: Smart
 #  preview_only: false
 ---
-<!--StartFragment-->
+Estimating the solar potential of buildings' rooftops at a large scale is a fundamental step for every country to utilize its solar power efficiently. However, such estimation becomes time-consuming and costly if done through on-site measurements. This paper uses deep learning-based multi-class instance segmentation to extract buildings' footprints from satellite images. Hence, we introduce Lebanon's first complete and comprehensive buildings' footprints map. Furthermore, we propose a photovoltaic panels placement algorithm to estimate the solar potential of every rooftop, which results in Lebanon's first buildings' solar potential map too. Finally, we compute the average and total solar potential per district and localize hot regions on the map corresponding to the highest solar potential yield.
 
-Semantic Segmentation of buildings present in satellite images using encoder-decoder like convolutional neural networks is being achieved with relatively high pixel-wise metric scores. In this paper, we aim to exploit the power of fully convolutional neural networks for an instance segmentation task using extra added classes to the output along with the watershed processing technique to leverage better object-wise metric results. We also show that CutMix mixed data augmentations and the One-Cycle learning rate policy are greater regularization methods to achieve a better fit on the training data and increase performance. Furthermore, Mixed Precision Training provided more flexibility to experiment with bigger networks and batches while maintaining stability and convergence during training. We compare and show the effect of these additional changes throughout our whole pipeline to finally provide a set of tuned hyper-parameters that are proven to perform better.
 
 Paper preprint can be fetched <a href="https://arxiv.org/abs/2111.11397" target="_blank">here.</a>
-
-
-<!--EndFragment-->
