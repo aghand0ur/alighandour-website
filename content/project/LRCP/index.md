@@ -5,7 +5,7 @@ title: "LRCP"
 summary: "Lebanese Road Crashes Platform"
 authors: []
 tags:
-- Deep Learning
+- Other
 categories: []
 date: 2017-08-22T10:59:15+01:00
 
