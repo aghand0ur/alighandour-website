@@ -100,7 +100,6 @@
   {{- range $lib_names -}}
     {{- $stylesheets = $stylesheets | append (resources.Get (printf "css/libs/%s.css" . ) ) -}}
   {{- end -}}
-  {{ $stylesheets = $stylesheets | resources.Concat "css/vendor-bundle.css" | minify }}
   {{- if hugo.IsProduction -}}
     {{- $stylesheets = $stylesheets | fingerprint "md5" -}}
   {{- end -}}
