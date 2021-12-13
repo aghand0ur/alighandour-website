@@ -73,6 +73,3 @@ backend:
   name: git-gateway
   repo: aghand0ur/starter-hugo-academic
   branch: master
-  
-  
-  
