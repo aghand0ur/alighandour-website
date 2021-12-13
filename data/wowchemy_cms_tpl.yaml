@@ -74,7 +74,6 @@ collections:
                 step: 0.1
                 required: false
       - {label: "Body", name: "body", widget: "markdown", required: false}
-	  
   - name: authors
     label: Authors
     label_singular: Author
@@ -154,8 +153,7 @@ collections:
       - label: "User groups (only for organization websites)"
         name: "user_groups"
         required: false
-        widget: "list"
-		
+        widget: "list"		
   - name: posts
     label: Posts
     label_singular: Post
@@ -212,8 +210,7 @@ collections:
           - {label: Caption, name: caption, widget: string, required: false}
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
-          - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false, required: false}
-		  
+          - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false, required: false}		  
   - name: projects
     label: Projects
     label_singular: Project
@@ -286,8 +283,7 @@ hide: true
           - {label: Caption, name: caption, widget: string, required: false}
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
-          - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false, required: false}
-		  
+          - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false, required: false}	  
   - name: events
     label: Events
     label_singular: Event
@@ -368,8 +364,7 @@ hide: true
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
           - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false, required: false}
-      - {label: "Details", name: "body", widget: "markdown", required: false}
-	  
+      - {label: "Details", name: "body", widget: "markdown", required: false} 
   - name: publications
     label: Publications
     label_singular: Publication
@@ -452,7 +447,6 @@ hide: true
       - { label: "Summary (shortened abstract)", name: "summary", widget: "text", required: false }
       - {label: "Details", name: "body", widget: "markdown", required: false}
       - { label: "Publish this page on", name: "date", widget: "datetime" }
-  
   - name: slides
    label: Slides
    label_singular: Slides
@@ -497,7 +491,6 @@ hide: true
          - {label: Description for screen readers, name: alt_text, widget: string, required: false}
          - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
          - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false, required: false}
-  
   - name: pages
    label: "Pages"
    files:
