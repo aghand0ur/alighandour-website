@@ -214,7 +214,7 @@ collections:
   - name: projects
     label: Projects
     label_singular: Project
-hide: true
+    hide: true
     folder: 'content/project'
     path: '{{slug}}/index'
     filter: {field: "cms_exclude"}
