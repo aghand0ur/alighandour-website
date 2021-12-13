@@ -1,8 +1,8 @@
-#backend:
-#  name: git-gateway
-#  repo: aghand0ur/starter-hugo-academic
-#  branch: master
-#  squash_merges: true
+backend:
+  name: git-gateway
+  repo: aghand0ur/starter-hugo-academic
+  branch: master
+  squash_merges: true
 media_folder: 'assets/media'
 public_folder: '/media'
 collections:
