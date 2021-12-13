@@ -214,7 +214,6 @@ collections:
   - name: projects
     label: Projects
     label_singular: Project
-    hide: true
     folder: 'content/project'
     path: '{{slug}}/index'
     filter: {field: "cms_exclude"}
@@ -287,6 +286,7 @@ collections:
   - name: events
     label: Events
     label_singular: Event
+    hide: true
     folder: 'content/event'
     path: '{{slug}}/index'
     filter: {field: "cms_exclude"}
