@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: aghand0ur/starter-hugo-academic
   branch: master
   squash_merges: true
 media_folder: 'assets/media'
@@ -154,7 +155,64 @@ collections:
         name: "user_groups"
         required: false
         widget: "list"
-				  
+		
+  # - name: posts
+    # label: Posts
+    # label_singular: Post
+    # folder: 'content/post'
+    # path: '{{slug}}/index'
+    # filter: {field: "cms_exclude"}
+    # create: true  # Allow users to create new documents in this collection
+    # fields:  # The fields each document in this collection have
+      # - {label: "Title", name: "title", widget: "string"}
+      # - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      # - {label: "Body", name: "body", widget: "markdown"}
+      # - {label: "Publish this page on", name: "date", widget: "datetime"}
+      # - {label: "Summary", name: "summary", widget: "markdown", required: false}
+      # - label: "Draft"
+        # name: "draft"
+        # widget: "boolean"
+        # default: false
+        # required: false
+      # - label: "Featured"
+        # name: "featured"
+        # widget: "boolean"
+        # default: false
+        # required: false
+      # - label: "Authors"
+        # name: "authors"
+        # required: false
+        # widget: "list"
+      # - label: "Tags"
+        # name: "tags"
+        # required: false
+        # widget: "list"
+      # - label: "Categories"
+        # name: "categories"
+        # required: false
+        # widget: "list"
+      # - label: "Projects"
+        # name: "projects"
+        # required: false
+        # widget: "list"
+      # - label: "Featured Image"
+        # name: "image"
+        # required: false
+        # widget: object
+        # fields:
+          # - label: "Upload an image named `featured.jpg/png`"
+            # name: "filename"
+            # widget: "image"
+            # default: "featured"
+            # required: false
+            # media_library:
+              # config:
+                # multiple: false
+          # - {label: Caption, name: caption, widget: string, required: false}
+          # - {label: Description for screen readers, name: alt_text, widget: string, required: false}
+          # - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
+          # - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false, required: false}
+		  
   - name: projects
     label: Projects
     label_singular: Project
@@ -227,7 +285,89 @@ collections:
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
           - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false, required: false}
-		  	  
+		  
+  # - name: events
+    # label: Events
+    # label_singular: Event
+    # folder: 'content/event'
+    # path: '{{slug}}/index'
+    # filter: {field: "cms_exclude"}
+    # create: true  # Allow users to create new documents in this collection
+    # fields:  # The fields each document in this collection have
+      # - {label: "Title", name: "title", widget: "string"}
+      # - {label: "Abstract", name: "abstract", widget: "text"}
+      # - {label: "Where", name: "location", widget: "text"}
+      # - {label: "From", name: "date", widget: "datetime"}
+      # - {label: "To", name: "date_end", widget: "datetime", default: ""}
+      # - {label: "All day event?", name: "all_day", widget: "boolean", default: false}
+      # - label: Links/Tickets
+        # name: links
+        # required: false
+        # widget: list
+        # fields:
+          # - {label: Link, name: url, widget: string}
+          # - {label: Link text, name: name, widget: string, required: false}
+          # - label: Icon pack
+            # name: icon_pack
+            # widget: select
+            # multiple: false
+            # required: false
+            # options:
+              # - {label: "None", value: ""}
+              # - {label: "Solid", value: "fas"}
+              # - {label: "Regular", value: "far"}
+              # - {label: "Brand", value: "fab"}
+              # - {label: "Academic", value: "ai"}
+          # - {label: "Icon (see https://wowchemy.com/docs/page-builder/#icons)", name: icon, widget: string, required: false}
+      # - {label: "Event", name: "event", widget: "string"}
+      # - {label: "Event link", name: "event_url", widget: "string"}
+      # - {label: "Publish this page on", name: "publishDate", widget: "datetime"}
+      # - {label: "Markdown slides (reference a deck in 'content/slides/')", name: "slides", widget: "string", required: false}
+      # - label: "Draft"
+        # name: "draft"
+        # widget: "boolean"
+        # default: false
+        # required: false
+      # - label: "Featured"
+        # name: "featured"
+        # widget: "boolean"
+        # default: false
+        # required: false
+      # - label: "Authors"
+        # name: "authors"
+        # required: false
+        # widget: "list"
+      # - label: "Tags"
+        # name: "tags"
+        # required: false
+        # widget: "list"
+      # - label: "Categories"
+        # name: "categories"
+        # required: false
+        # widget: "list"
+      # - label: "Projects (reference projects in 'content/project/')"
+        # name: "projects"
+        # required: false
+        # widget: "list"
+      # - label: "Featured Image"
+        # name: "image"
+        # required: false
+        # widget: object
+        # fields:
+          # - label: "Upload an image named `featured.jpg/png`"
+            # name: "filename"
+            # widget: "image"
+            # default: "featured"
+            # required: false
+            # media_library:
+              # config:
+                # multiple: false
+          # - {label: Caption, name: caption, widget: string, required: false}
+          # - {label: Description for screen readers, name: alt_text, widget: string, required: false}
+          # - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
+          # - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false, required: false}
+      # - {label: "Details", name: "body", widget: "markdown", required: false}
+	  
   - name: publications
     label: Publications
     label_singular: Publication
@@ -311,3 +451,79 @@ collections:
       - {label: "Details", name: "body", widget: "markdown", required: false}
       - { label: "Publish this page on", name: "date", widget: "datetime" }
   
+  #- name: slides
+  #  label: Slides
+  #  label_singular: Slides
+  #  folder: 'content/slides'
+  #  path: '{{slug}}/index'
+  #  filter: {field: "cms_exclude"}
+  #  create: true  # Allow users to create new documents in this collection
+  #  fields:  # The fields each document in this collection have
+  #    - {label: "Title", name: "title", widget: "string"}
+  #    - {label: "Slides (separate with `---`)", name: "body", widget: "markdown"}
+  #    - {label: "Publish on", name: "date", widget: "datetime"}
+  #    - {label: "Summary", name: "summary", widget: "text", required: false}
+  #    - label: "Draft"
+  #      name: "draft"
+  #      widget: "boolean"
+  #      default: false
+  #      required: false
+  #    - label: "Tags"
+  #      name: "tags"
+  #      required: false
+  #      widget: "list"
+  #    - label: "Slide options"
+  #      name: "slides"
+  #      required: false
+  #      widget: object
+  #      fields:
+  #        - { label: "Theme (see https://github.com/hakimel/reveal.js#theming)", name: theme, widget: string, required: false, default: black }
+  #    - label: "Featured Image"
+  #      name: "image"
+  #      required: false
+  #      widget: object
+  #      fields:
+  #       - label: "Upload an image named `featured.jpg/png`"
+  #          name: "filename"
+  #          widget: "image"
+  #          default: "featured"
+  #          required: false
+  #          media_library:
+  #            config:
+  #              multiple: false
+  #        - {label: Caption, name: caption, widget: string, required: false}
+  #        - {label: Description for screen readers, name: alt_text, widget: string, required: false}
+  #        - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
+  #        - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false, required: false}
+  
+  #- name: pages
+  #  label: "Pages"
+  #  files:
+  #    - file: "content/privacy.md"
+  #      label: "Privacy Policy"
+  #      name: "privacy"
+  #      fields:
+  #        - {label: "Title", name: "title", widget: "string"}
+  #        - {label: "Publish Date", name: "date", widget: "datetime"}
+  #        - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+  #        - {label: "Summary", name: "summary", widget: "markdown", required: false}
+  #        - label: "Draft"
+  #          name: "draft"
+  #          required: false
+  #          widget: "boolean"
+  #          default: false
+  #        - {label: "Body", name: "body", widget: "markdown"}
+  #    - file: "content/terms.md"
+  #      label: "Terms"
+  #      name: "terms"
+  #      fields:
+  #        - {label: "Title", name: "title", widget: "string"}
+  #        - {label: "Publish Date", name: "date", widget: "datetime"}
+  #        - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+  #        - {label: "Summary", name: "summary", widget: "markdown", required: false}
+  #        - label: "Draft"
+  #          name: "draft"
+  #          required: false
+  #          widget: "boolean"
+  #          default: false
+  #        - {label: "Body", name: "body", widget: "markdown"}
