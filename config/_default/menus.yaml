@@ -13,9 +13,9 @@ main:
   - name: Research
     url: '#projects'
     weight: 20
-  - name: Dataset
-    url: '#dataset'
-    weight: 30
+#  - name: Dataset
+#    url: '#dataset'
+#    weight: 30
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
