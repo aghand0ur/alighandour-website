@@ -3,6 +3,7 @@ widget: portfolio
 headless: true
 weight: 66
 title: Dataset
+active: false
 subtitle: ""
 content:
   page_type: dataset
